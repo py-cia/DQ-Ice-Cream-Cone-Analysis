@@ -8,3 +8,6 @@ at school, so I could not monitor the progress or fidelity of the results. The l
 
 # Future
 I might rework the interface again; I learned about shinydashboards while trying to customize this app, and i think that will improve the ui.
+
+# Link
+https://py-cia.shinyapps.io/dairy_queen_ice_cream/
